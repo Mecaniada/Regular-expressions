@@ -1,4 +1,4 @@
-# glowing-octo-disco
+# Regular expressions
 Coursera Week 2 Extracting Data With Regular Expressions
 
 ***In this assignment you will read through and parse a file with text and numbers. You will extract all the numbers in the file and compute the sum of the numbers.***
